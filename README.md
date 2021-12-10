@@ -55,11 +55,11 @@ Explain it with the array will be like this.
 
 bag's capacity 1 2 3 4 5 6   7   8  9  10
 
-max value      0 0 0 8 8 13 *13* 13 13 21
+max value      0 0 0 8 8 13 #*13* 13 13 21
 
 bag's capacity 1 2 3 4 5 6  7 
 
-max value      0 0 6 8 8 13 *13 VS (8+6)*
+max value      0 0 6 8 8 13 #*13 VS (8+6)*
 
 ## Where can I get more help, if I need it?
 
